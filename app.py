@@ -282,7 +282,7 @@ if 'messages' not in st.session_state:
 
 # DataStax logo
 with st.sidebar:
-    st.image('./assets/images.jpg')
+    st.image('./assets/images.png')
     st.text('')
 
 # Logout button
